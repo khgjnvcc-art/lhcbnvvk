@@ -17,7 +17,7 @@ from sms_client import GrizzlyClient, AliSMSClient, SMSAPIError
 # ==========================================
 # ⚙️ الإعدادات الأساسية (Configuration)
 # ==========================================
-API_TOKEN = "8033899165:AAHwx7_lIDxXLcPxyG0HqhQwg6FtY9u3TW8"
+API_TOKEN = "8517178753:AAErag4FgMQZfst3kiBGpGzadFOpMbn2nMo"
 GRIZZLY_KEY = "0fee820164b18c68456a3f6197eb5900" # مفتاحك
 ALI_KEY = "FM37hEbOKzTifWNjtEsLefhNzM8p9duuRyWRmoBvZSlgyJUGNv"
 
